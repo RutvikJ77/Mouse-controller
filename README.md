@@ -162,8 +162,8 @@ On comparing the model loading time, inference time and the Frames per second ou
 
 
 ## Further Implementations
-- [] Add a face authentication model.
-- [] Using the rock paper scissor model add more functionalities like click,scroll.
+- [ ] Add a face authentication model.
+- [ ] Using the rock paper scissor model add more functionalities like click,scroll.
 
 ### Edge Cases
 To avoid certain edge cases following implementations are done:
