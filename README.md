@@ -2,16 +2,17 @@
 
 ## Introduction
 The Computer Pointer Controller app allows you to control the movement of the mouse pointer on the screen through your head position and gazing angles.
-
+## Demo
+![Demo](bin/JLslTL.gif "Frames per Second")
 ## Project Set Up and Installation
 ### Setup
 
 #### Prerequisites
-  - You need to install Intel openvino . <br/>
-  See this [guide](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html) for installing openvino.
+  - You need to install Intel openvino. <br/>
+    See this [guide](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html) for installing openvino.
 
 #### Step 1
-Clone the repository:- https://github.com/
+Clone the repository:- https://github.com/RutvikJ77/Mouse-controller.git
 
 #### Step 2
 Initialize the openVINO environment:-
@@ -161,8 +162,8 @@ On comparing the model loading time, inference time and the Frames per second ou
 
 
 ## Further Implementations
-*Todo* Add a face authentication model.
-*Todo* Using the rock paper scissor model add more functionalities like click,scroll.
+**Todo** Add a face authentication model.
+**Todo** Using the rock paper scissor model add more functionalities like click,scroll.
 
 ### Edge Cases
 To avoid certain edge cases following implementations are done:
